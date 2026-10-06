@@ -1,4 +1,4 @@
-# SiliconJackets-onboarding
+# SiliconJackets Onboarding Project
 Sneha Narayan's SiliconJackets Onboarding Project
 
 64-bit SystemVerilog RTL calculator with FSM control, 32-bit ripple-carry addition, and SRAM sequencing. 
